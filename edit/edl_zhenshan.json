@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "sources": {
+    "CAM": "<PROJECT_ROOT>/edit/proxy/4884_crop.mp4",
+    "CARD_opening": "<PROJECT_ROOT>/edit/cards_zhenshan/opening.mp4",
+    "CARD_title": "<PROJECT_ROOT>/edit/cards_zhenshan/title.mp4",
+    "CARD_q1": "<PROJECT_ROOT>/edit/cards_zhenshan/q1.mp4",
+    "CARD_q2": "<PROJECT_ROOT>/edit/cards_zhenshan/q2.mp4",
+    "CARD_q3": "<PROJECT_ROOT>/edit/cards_zhenshan/q3.mp4",
+    "CARD_q4": "<PROJECT_ROOT>/edit/cards_zhenshan/q4.mp4",
+    "CARD_q5": "<PROJECT_ROOT>/edit/cards_zhenshan/q5.mp4",
+    "CARD_q6": "<PROJECT_ROOT>/edit/cards_zhenshan/q6.mp4",
+    "CARD_today_tunnel": "<PROJECT_ROOT>/edit/cards_zhenshan/today_tunnel.mp4",
+    "CARD_today_lane": "<PROJECT_ROOT>/edit/cards_zhenshan/today_lane.mp4",
+    "CARD_end": "<PROJECT_ROOT>/edit/cards_zhenshan/end.mp4"
+  },
+  "ranges": [
+    {
+      "source": "CARD_opening",
+      "start": 0.0,
+      "end": 10.0,
+      "beat": "card opening",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_title",
+      "start": 0.0,
+      "end": 4.0,
+      "beat": "card title",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CAM",
+      "start": 267.6,
+      "end": 280.26,
+      "beat": "hook",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q1",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q1",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CAM",
+      "start": 22.66,
+      "end": 26.75,
+      "beat": "q1a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CAM",
+      "start": 27.1,
+      "end": 29.94,
+      "beat": "q1b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CAM",
+      "start": 30.78,
+      "end": 32.3,
+      "beat": "q1c",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CAM",
+      "start": 36.66,
+      "end": 39.15,
+      "beat": "q1d",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CAM",
+      "start": 40.6,
+      "end": 42.6,
+      "beat": "q1e",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q2",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q2",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CAM",
+      "start": 56.94,
+      "end": 60.62,
+      "beat": "q2a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CAM",
+      "start": 63.98,
+      "end": 77.72,
+      "beat": "q2b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q3",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q3",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CAM",
+      "start": 91.58,
+      "end": 104.1,
+      "beat": "q3a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CAM",
+      "start": 105.44,
+      "end": 112.1,
+      "beat": "q3b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q4",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q4",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CAM",
+      "start": 140.96,
+      "end": 161.06,
+      "beat": "zoo",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q5",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q5",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CAM",
+      "start": 219.26,
+      "end": 241.12,
+      "beat": "train_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CAM",
+      "start": 243.6,
+      "end": 249.86,
+      "beat": "train_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q6",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q6",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CAM",
+      "start": 287.48,
+      "end": 297.84,
+      "beat": "q6ans",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_today_tunnel",
+      "start": 0.0,
+      "end": 5.0,
+      "beat": "card today_tunnel",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_today_lane",
+      "start": 0.0,
+      "end": 6.0,
+      "beat": "card today_lane",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_end",
+      "start": 0.0,
+      "end": 11.666666666666666,
+      "beat": "card end",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    }
+  ],
+  "grade": "",
+  "overlays": [
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_zhenshan/kb_p6_6.4s.mov",
+      "start_in_output": 31.35,
+      "duration": 6.4
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_zhenshan/kb_p5_6.4s.mov",
+      "start_in_output": 36.75,
+      "duration": 6.4
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_zhenshan/kb_p3_9s.mov",
+      "start_in_output": 46.98,
+      "duration": 9.0
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_zhenshan/kb_p10_8s.mov",
+      "start_in_output": 73.82,
+      "duration": 8.0
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_zhenshan/kb_p14_4.3s.mov",
+      "start_in_output": 141.02,
+      "duration": 4.3
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_zhenshan/kb_p9_4.3s.mov",
+      "start_in_output": 144.32,
+      "duration": 4.3
+    }
+  ],
+  "total_duration_s": 173.05
+}

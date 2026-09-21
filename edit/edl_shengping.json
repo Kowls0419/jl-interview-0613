@@ -1,0 +1,357 @@
+{
+  "version": 1,
+  "sources": {
+    "S80": "<PROJECT_ROOT>/002A4880.MP4",
+    "S81": "<PROJECT_ROOT>/002A4881.MP4",
+    "S82": "<PROJECT_ROOT>/002A4882.MP4",
+    "CARD_opening": "<PROJECT_ROOT>/edit/cards_shengping/opening.mp4",
+    "CARD_title": "<PROJECT_ROOT>/edit/cards_shengping/title.mp4",
+    "CARD_scene": "<PROJECT_ROOT>/edit/cards_shengping/scene.mp4",
+    "CARD_q1": "<PROJECT_ROOT>/edit/cards_shengping/q1.mp4",
+    "CARD_q2": "<PROJECT_ROOT>/edit/cards_shengping/q2.mp4",
+    "CARD_q3": "<PROJECT_ROOT>/edit/cards_shengping/q3.mp4",
+    "CARD_q4": "<PROJECT_ROOT>/edit/cards_shengping/q4.mp4",
+    "CARD_q5": "<PROJECT_ROOT>/edit/cards_shengping/q5.mp4",
+    "CARD_q6": "<PROJECT_ROOT>/edit/cards_shengping/q6.mp4",
+    "CARD_q7": "<PROJECT_ROOT>/edit/cards_shengping/q7.mp4",
+    "CARD_q8": "<PROJECT_ROOT>/edit/cards_shengping/q8.mp4",
+    "CARD_today_bitan": "<PROJECT_ROOT>/edit/cards_shengping/today_bitan.mp4",
+    "CARD_today_bridge": "<PROJECT_ROOT>/edit/cards_shengping/today_bridge.mp4",
+    "CARD_today_canal": "<PROJECT_ROOT>/edit/cards_shengping/today_canal.mp4",
+    "CARD_thesis": "<PROJECT_ROOT>/edit/cards_shengping/thesis.mp4",
+    "CARD_end": "<PROJECT_ROOT>/edit/cards_shengping/end.mp4"
+  },
+  "ranges": [
+    {
+      "source": "CARD_opening",
+      "start": 0.0,
+      "end": 10.0,
+      "beat": "card opening",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_title",
+      "start": 0.0,
+      "end": 4.0,
+      "beat": "card title",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_scene",
+      "start": 0.0,
+      "end": 4.2,
+      "beat": "card scene",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 913.55,
+      "end": 915.71,
+      "beat": "hook_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S81",
+      "start": 926.15,
+      "end": 932.95,
+      "beat": "hook_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q1",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q1",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 103.74,
+      "end": 119.98,
+      "beat": "intro",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q2",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q2",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 391.79,
+      "end": 416.8,
+      "beat": "war",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q3",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q3",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 572.05,
+      "end": 578.91,
+      "beat": "school_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S81",
+      "start": 583.33,
+      "end": 596.29,
+      "beat": "school_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q4",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q4",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 606.15,
+      "end": 609.99,
+      "beat": "dad",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q5",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q5",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 638.61,
+      "end": 653.75,
+      "beat": "home",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q6",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q6",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 720.65,
+      "end": 723.45,
+      "beat": "gone_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S81",
+      "start": 725.95,
+      "end": 732.0,
+      "beat": "gone_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q7",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q7",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 933.39,
+      "end": 956.95,
+      "beat": "typhoon",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q8",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q8",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "S81",
+      "start": 971.11,
+      "end": 976.4,
+      "beat": "canal_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S81",
+      "start": 979.85,
+      "end": 983.35,
+      "beat": "canal_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S82",
+      "start": 6.64,
+      "end": 20.14,
+      "beat": "swim",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S82",
+      "start": 48.72,
+      "end": 58.3,
+      "beat": "hero",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S82",
+      "start": 74.96,
+      "end": 83.06,
+      "beat": "clean",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_today_bitan",
+      "start": 0.0,
+      "end": 4.6,
+      "beat": "card today_bitan",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_today_bridge",
+      "start": 0.0,
+      "end": 4.6,
+      "beat": "card today_bridge",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_today_canal",
+      "start": 0.0,
+      "end": 4.6,
+      "beat": "card today_canal",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_thesis",
+      "start": 0.0,
+      "end": 5.5,
+      "beat": "card thesis",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_end",
+      "start": 0.0,
+      "end": 11.791666666666666,
+      "beat": "card end",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    }
+  ],
+  "grade": "tmix=frames=3",
+  "overlays": [
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p10_3.9s.mov",
+      "start_in_output": 19.2,
+      "duration": 3.9
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p17_3.9s.mov",
+      "start_in_output": 22.1,
+      "duration": 3.9
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p19_7s.mov",
+      "start_in_output": 35.76,
+      "duration": 7.0
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p14_8s.mov",
+      "start_in_output": 56.6,
+      "duration": 8.0
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p5_9.3s.mov",
+      "start_in_output": 77.21,
+      "duration": 9.3
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p4_9.3s.mov",
+      "start_in_output": 85.51,
+      "duration": 9.3
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p11_5.8s_cov.mov",
+      "start_in_output": 98.03,
+      "duration": 5.8
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p12_9.1s_cov.mov",
+      "start_in_output": 104.47,
+      "duration": 9.1
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p13_9.1s_cov.mov",
+      "start_in_output": 112.57,
+      "duration": 9.1
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p15_8.9s_cov.mov",
+      "start_in_output": 160.22,
+      "duration": 8.9
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_shengping/kb_p1_7.5s.mov",
+      "start_in_output": 169.51,
+      "duration": 7.5
+    }
+  ],
+  "total_duration_s": 231.48
+}

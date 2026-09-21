@@ -1,0 +1,294 @@
+{
+  "version": 1,
+  "sources": {
+    "C4883": "<PROJECT_ROOT>/002A4883.MP4",
+    "CARD_opening": "<PROJECT_ROOT>/edit/cards_hemei/opening.mp4",
+    "CARD_title": "<PROJECT_ROOT>/edit/cards_hemei/title.mp4",
+    "CARD_q1": "<PROJECT_ROOT>/edit/cards_hemei/q1.mp4",
+    "CARD_q2": "<PROJECT_ROOT>/edit/cards_hemei/q2.mp4",
+    "CARD_q3": "<PROJECT_ROOT>/edit/cards_hemei/q3.mp4",
+    "CARD_q4": "<PROJECT_ROOT>/edit/cards_hemei/q4.mp4",
+    "CARD_q5": "<PROJECT_ROOT>/edit/cards_hemei/q5.mp4",
+    "CARD_q6": "<PROJECT_ROOT>/edit/cards_hemei/q6.mp4",
+    "CARD_today_mine": "<PROJECT_ROOT>/edit/cards_hemei/today_mine.mp4",
+    "CARD_today_river": "<PROJECT_ROOT>/edit/cards_hemei/today_river.mp4",
+    "CARD_today_ferry": "<PROJECT_ROOT>/edit/cards_hemei/today_ferry.mp4",
+    "CARD_today_signs": "<PROJECT_ROOT>/edit/cards_hemei/today_signs.mp4",
+    "CARD_end": "<PROJECT_ROOT>/edit/cards_hemei/end.mp4"
+  },
+  "ranges": [
+    {
+      "source": "CARD_opening",
+      "start": 0.0,
+      "end": 10.0,
+      "beat": "card opening",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_title",
+      "start": 0.0,
+      "end": 4.0,
+      "beat": "card title",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_q1",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q1",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "C4883",
+      "start": 7.48,
+      "end": 18.25,
+      "beat": "origin",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q2",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q2",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "C4883",
+      "start": 28.38,
+      "end": 32.38,
+      "beat": "visit_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 35.7,
+      "end": 47.3,
+      "beat": "visit_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 48.55,
+      "end": 50.14,
+      "beat": "visit_c",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q3",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q3",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "C4883",
+      "start": 55.97,
+      "end": 62.75,
+      "beat": "boats_hook",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 65.3,
+      "end": 70.8,
+      "beat": "boats_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 72.24,
+      "end": 73.95,
+      "beat": "boats_c",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 75.3,
+      "end": 105.66,
+      "beat": "boats_d",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q4",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q4",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "C4883",
+      "start": 114.06,
+      "end": 137.74,
+      "beat": "trail",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q5",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q5",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "C4883",
+      "start": 162.06,
+      "end": 164.8,
+      "beat": "workers_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 167.6,
+      "end": 172.72,
+      "beat": "workers_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 175.96,
+      "end": 184.42,
+      "beat": "workers_c",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_q6",
+      "start": 0.0,
+      "end": 2.6,
+      "beat": "card q6",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "C4883",
+      "start": 198.52,
+      "end": 212.5,
+      "beat": "memory_a",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "C4883",
+      "start": 213.9,
+      "end": 221.99,
+      "beat": "memory_b",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_today_mine",
+      "start": 0.0,
+      "end": 5.0,
+      "beat": "card today_mine",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_today_river",
+      "start": 0.0,
+      "end": 4.6,
+      "beat": "card today_river",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_today_ferry",
+      "start": 0.0,
+      "end": 4.6,
+      "beat": "card today_ferry",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_today_signs",
+      "start": 0.0,
+      "end": 5.0,
+      "beat": "card today_signs",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    },
+    {
+      "source": "CARD_end",
+      "start": 0.0,
+      "end": 11.541666666666666,
+      "beat": "card end",
+      "quote": "",
+      "reason": "",
+      "grade": ""
+    }
+  ],
+  "grade": "tmix=frames=5",
+  "overlays": [
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p11_8.4s.mov",
+      "start_in_output": 31.47,
+      "duration": 8.4
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p7_8.4s.mov",
+      "start_in_output": 38.87,
+      "duration": 8.4
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p10_6.6s.mov",
+      "start_in_output": 55.04,
+      "duration": 6.6
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p16_6.6s.mov",
+      "start_in_output": 60.64,
+      "duration": 6.6
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p6_6.6s.mov",
+      "start_in_output": 77.95,
+      "duration": 6.6
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p15_8s.mov",
+      "start_in_output": 110.55,
+      "duration": 8.0
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p12_8.1s.mov",
+      "start_in_output": 124.53,
+      "duration": 8.1
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_hemei/kb_p9_9.6s.mov",
+      "start_in_output": 147.91,
+      "duration": 9.6
+    }
+  ],
+  "total_duration_s": 194.72
+}

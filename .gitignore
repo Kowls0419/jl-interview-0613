@@ -1,0 +1,45 @@
+# Raw footage — loose at project root, stays in Drive only
+/*.MP4
+/*.mp4
+/*.MOV
+/*.mov
+
+# Admin/financial paperwork — not editorial content, kept out of a public repo
+/*.pdf
+
+# Non-editorial project folders — Drive only
+/1/
+/2/
+/3/
+/4/
+/IRL/
+/product/
+/exports/
+/archive/
+/audio/
+/.claude/
+
+# Large / binary edit outputs — Drive only
+edit/*.mp4
+edit/*.mov
+edit/*.html
+edit/kb_*/
+edit/clips_draft/
+edit/clips_graded/
+edit/clips_preview/
+edit/proxy/
+edit/verify/
+edit/edit/
+edit/fonts/
+edit/music/
+edit/cards_*/
+edit/review/frames/
+edit/build/__pycache__/
+
+# Google Drive sync-conflict duplicate copies (never the source of truth)
+*\ \(1\)*
+*\(1\)*
+
+.DS_Store
+._*
+CLAUDE.md

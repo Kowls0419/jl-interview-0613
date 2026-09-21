@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "sources": {
+    "S80": "<PROJECT_ROOT>/002A4880.MP4",
+    "S81": "<PROJECT_ROOT>/002A4881.MP4",
+    "S82": "<PROJECT_ROOT>/002A4882.MP4",
+    "CARD_title": "<PROJECT_ROOT>/edit/cards_huaxu/title.mp4",
+    "CARD_ending": "<PROJECT_ROOT>/edit/cards_huaxu/ending.mp4",
+    "CARD_end": "<PROJECT_ROOT>/edit/cards_huaxu/end.mp4"
+  },
+  "ranges": [
+    {
+      "source": "CARD_title",
+      "start": 0.0,
+      "end": 3.5,
+      "beat": "card title",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S80",
+      "start": 1.3,
+      "end": 27.15,
+      "beat": "rehearsal",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S81",
+      "start": 84.5,
+      "end": 90.6,
+      "beat": "one_at_a_time",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S81",
+      "start": 100.98,
+      "end": 103.6,
+      "beat": "look_here",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S82",
+      "start": 26.7,
+      "end": 33.75,
+      "beat": "look_at_lens",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S81",
+      "start": 339.9,
+      "end": 342.0,
+      "beat": "watch_camera",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "S82",
+      "start": 95.3,
+      "end": 97.35,
+      "beat": "cut_ok",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_ending",
+      "start": 0.0,
+      "end": 4.4,
+      "beat": "card ending",
+      "quote": "",
+      "reason": ""
+    },
+    {
+      "source": "CARD_end",
+      "start": 0.0,
+      "end": 5.5,
+      "beat": "card end",
+      "quote": "",
+      "reason": ""
+    }
+  ],
+  "grade": "tmix=frames=3",
+  "overlays": [
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_huaxu/kb_p23_4.5s.mov",
+      "start_in_output": 5.5,
+      "duration": 4.5
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_huaxu/kb_p8_4.5s.mov",
+      "start_in_output": 9.0,
+      "duration": 4.5
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_huaxu/kb_p20_4.5s.mov",
+      "start_in_output": 12.5,
+      "duration": 4.5
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_huaxu/kb_p21_4.5s.mov",
+      "start_in_output": 16.0,
+      "duration": 4.5
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_huaxu/kb_p6_4.5s.mov",
+      "start_in_output": 30.15,
+      "duration": 4.5
+    },
+    {
+      "file": "<PROJECT_ROOT>/edit/kb_huaxu/kb_p7_4.5s.mov",
+      "start_in_output": 39.07,
+      "duration": 4.5
+    }
+  ],
+  "total_duration_s": 59.17
+}

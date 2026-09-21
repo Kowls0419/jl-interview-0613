@@ -1,0 +1,11 @@
+{"task": "shengping", "iter": 2, "count": 1, "note": "grid had too many similar shots; re-picked via v1_grid.html to 5 stills + 2 clips"}
+{"task": "shengping", "iter": 3, "count": 0, "note": "verified"}
+{"task": "hemei", "iter": 1, "count": 0, "note": "verified first pass; closer design carried over from V1"}
+{"task": "hemei", "iter": 2, "count": 1, "note": "re-picked BTS stills after first verify (dropped P21)"}
+{"task": "zhenshan", "iter": 1, "count": 0, "note": "verified first pass; closer design carried from V1"}
+{"task": "series-finish", "iter": 1, "count": 1, "note": "card morph ghosted by EDL tmix (L34)"}
+{"task": "series-finish", "iter": 2, "count": 3, "note": "music fade-out; 螢橋車站 subtitle; fade to true black"}
+{"task": "series-finish", "iter": 3, "count": 0, "note": "all three exports verified"}
+{"task": "posters", "iter": 1, "count": 3, "note": "pure white bg; add 攝影/後製剪輯 + bolden; add still+blurb"}
+{"task": "posters", "iter": 2, "count": 2, "note": "remove PNGs; playlist QR"}
+{"task": "posters", "iter": 3, "count": 1, "note": "enlarge playlist QR"}

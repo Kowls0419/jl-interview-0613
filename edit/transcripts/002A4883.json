@@ -1,0 +1,3768 @@
+{
+  "language_code": "zho",
+  "language_probability": 0.9995653033256531,
+  "text": "和美煤矿是，我妈妈买股票，然后卖了那个股票买的一个煤矿。煤矿这种地方是女生不能进去的啊，但我妈妈可以说和美煤矿，我妈妈参与的比我爸爸参与的差不多一样多，所以我也有去。我们和美煤矿是台湾最特殊的，它运煤是用船运运煤。我们要过去，我们就坐渡船过去，然后运煤就，用船运煤到加州旅社那里，那个那里是车站的最后一个站，然后很多货那个卡车、货车就放在那里，我们就从那边，和美煤矿就从那边用挑的，有的用是用那个输送带拉的，后来用输送带拉的煤，从船上拉到货车上，然后火车就把它载到万华那边。和美山步道是这样，因为那个颱风的时候，或者是大水的时候，那个渡船不能过，那就没有办法去上工了嘛，所以就开了一个步道，就从开来一个步道到煤矿，所以他们雨天也可以去上班。有啊，有过。而且都是在一起工作很久的老师傅，那是从正山煤矿那边，正山煤矿结束的时候全部跟着我爸爸到和美来的。那一班，那一班全部跟着我爸爸来了。原来是还有联系的，比如说电气师傅啊，阿板塞啊，还是那个那个有那个坑内的师傅啊，都有联系的。但是都，现在说来，应该他们都就我看一百多岁啦，所以没有没有联系现在。",
+  "words": [
+    {
+      "text": "和",
+      "start": 7.54,
+      "end": 7.72,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00011157367407577112
+    },
+    {
+      "text": "美",
+      "start": 7.72,
+      "end": 7.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.960462772236497e-07
+    },
+    {
+      "text": "煤",
+      "start": 7.94,
+      "end": 8.16,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00038818930624984205
+    },
+    {
+      "text": "矿",
+      "start": 8.16,
+      "end": 8.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00017093151109293103
+    },
+    {
+      "text": "是",
+      "start": 8.36,
+      "end": 8.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.007692003156989813
+    },
+    {
+      "text": "，",
+      "start": 8.6,
+      "end": 9.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.484197199344635
+    },
+    {
+      "text": "我",
+      "start": 9.78,
+      "end": 10.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.484197199344635
+    },
+    {
+      "text": "妈",
+      "start": 10.56,
+      "end": 10.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.03926090896129608
+    },
+    {
+      "text": "妈",
+      "start": 10.74,
+      "end": 11.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4662635294371285e-05
+    },
+    {
+      "text": "买",
+      "start": 11.52,
+      "end": 11.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002549561613705009
+    },
+    {
+      "text": "股",
+      "start": 11.7,
+      "end": 12.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00024041623692028224
+    },
+    {
+      "text": "票",
+      "start": 12.02,
+      "end": 12.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00024041623692028224
+    },
+    {
+      "text": "，",
+      "start": 12.3,
+      "end": 12.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01724827103316784
+    },
+    {
+      "text": "然",
+      "start": 12.98,
+      "end": 13.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01724827103316784
+    },
+    {
+      "text": "后",
+      "start": 13.26,
+      "end": 14.459,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01724827103316784
+    },
+    {
+      "text": "卖",
+      "start": 14.46,
+      "end": 14.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.369411418447271e-05
+    },
+    {
+      "text": "了",
+      "start": 14.6,
+      "end": 14.9,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00012110930401831865
+    },
+    {
+      "text": "那",
+      "start": 14.9,
+      "end": 15.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0011177966371178627
+    },
+    {
+      "text": "个",
+      "start": 15.04,
+      "end": 15.28,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0011177966371178627
+    },
+    {
+      "text": "股",
+      "start": 15.28,
+      "end": 15.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.009156615473330021
+    },
+    {
+      "text": "票",
+      "start": 15.66,
+      "end": 16.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.009156615473330021
+    },
+    {
+      "text": "买",
+      "start": 16.82,
+      "end": 17.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00037067217635922134
+    },
+    {
+      "text": "的",
+      "start": 17.02,
+      "end": 17.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.008963702246546745
+    },
+    {
+      "text": "一",
+      "start": 17.34,
+      "end": 17.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.008963702246546745
+    },
+    {
+      "text": "个",
+      "start": 17.52,
+      "end": 17.759,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.008963702246546745
+    },
+    {
+      "text": "煤",
+      "start": 17.76,
+      "end": 18.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.417489309271332e-06
+    },
+    {
+      "text": "矿",
+      "start": 18.0,
+      "end": 18.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.357491217087954e-05
+    },
+    {
+      "text": "。",
+      "start": 18.1,
+      "end": 18.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4662635294371285e-05
+    },
+    {
+      "text": "煤",
+      "start": 28.44,
+      "end": 28.72,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00019071667338721454
+    },
+    {
+      "text": "矿",
+      "start": 28.72,
+      "end": 28.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.018585216021165e-05
+    },
+    {
+      "text": "这",
+      "start": 28.86,
+      "end": 29.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0006939148879610002
+    },
+    {
+      "text": "种",
+      "start": 29.12,
+      "end": 29.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0006939148879610002
+    },
+    {
+      "text": "地",
+      "start": 29.24,
+      "end": 29.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.003747940994799137
+    },
+    {
+      "text": "方",
+      "start": 29.52,
+      "end": 29.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.003747940994799137
+    },
+    {
+      "text": "是",
+      "start": 29.7,
+      "end": 29.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.006777428206988e-06
+    },
+    {
+      "text": "女",
+      "start": 29.96,
+      "end": 30.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.006664650863968e-05
+    },
+    {
+      "text": "生",
+      "start": 30.34,
+      "end": 30.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.622600959512056e-06
+    },
+    {
+      "text": "不",
+      "start": 30.48,
+      "end": 30.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4185804502631072e-05
+    },
+    {
+      "text": "能",
+      "start": 30.64,
+      "end": 30.8,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4185804502631072e-05
+    },
+    {
+      "text": "进",
+      "start": 30.8,
+      "end": 31.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.002111945068463683
+    },
+    {
+      "text": "去",
+      "start": 31.02,
+      "end": 31.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.576272320060525e-06
+    },
+    {
+      "text": "的",
+      "start": 31.24,
+      "end": 32.259,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002989322238136083
+    },
+    {
+      "text": "啊",
+      "start": 32.259,
+      "end": 32.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.24556393921375275
+    },
+    {
+      "text": "，",
+      "start": 32.36,
+      "end": 32.369,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.05509679764509201
+    },
+    {
+      "text": "但",
+      "start": 32.369,
+      "end": 32.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.05509679764509201
+    },
+    {
+      "text": "我",
+      "start": 35.86,
+      "end": 36.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00027533553657121956
+    },
+    {
+      "text": "妈",
+      "start": 36.06,
+      "end": 36.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.298280929215252e-06
+    },
+    {
+      "text": "妈",
+      "start": 36.24,
+      "end": 37.58,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.0265558760002023e-06
+    },
+    {
+      "text": "可",
+      "start": 37.58,
+      "end": 37.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.25442805886268616
+    },
+    {
+      "text": "以",
+      "start": 37.78,
+      "end": 38.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.25442805886268616
+    },
+    {
+      "text": "说",
+      "start": 38.0,
+      "end": 38.28,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.113947918289341e-05
+    },
+    {
+      "text": "和",
+      "start": 38.28,
+      "end": 38.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.618460560683161e-05
+    },
+    {
+      "text": "美",
+      "start": 38.46,
+      "end": 38.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.0531076592742465e-06
+    },
+    {
+      "text": "煤",
+      "start": 38.66,
+      "end": 38.9,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00010501786891836673
+    },
+    {
+      "text": "矿",
+      "start": 38.9,
+      "end": 38.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.1324817933200393e-05
+    },
+    {
+      "text": "，",
+      "start": 38.98,
+      "end": 40.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00016032364510465413
+    },
+    {
+      "text": "我",
+      "start": 40.62,
+      "end": 40.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00016032364510465413
+    },
+    {
+      "text": "妈",
+      "start": 40.66,
+      "end": 40.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.0967194612021558e-05
+    },
+    {
+      "text": "妈",
+      "start": 40.82,
+      "end": 41.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.318072337307967e-06
+    },
+    {
+      "text": "参",
+      "start": 41.92,
+      "end": 42.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005429700831882656
+    },
+    {
+      "text": "与",
+      "start": 42.06,
+      "end": 42.28,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005429700831882656
+    },
+    {
+      "text": "的",
+      "start": 42.28,
+      "end": 42.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.027528537437319756
+    },
+    {
+      "text": "比",
+      "start": 42.64,
+      "end": 42.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.14359217882156372
+    },
+    {
+      "text": "我",
+      "start": 42.98,
+      "end": 43.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.008000470697879791
+    },
+    {
+      "text": "爸",
+      "start": 43.2,
+      "end": 43.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.5497195136049413e-06
+    },
+    {
+      "text": "爸",
+      "start": 43.46,
+      "end": 43.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005259322933852673
+    },
+    {
+      "text": "参",
+      "start": 43.66,
+      "end": 43.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0007194076315499842
+    },
+    {
+      "text": "与",
+      "start": 43.78,
+      "end": 44.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0007194076315499842
+    },
+    {
+      "text": "的",
+      "start": 44.02,
+      "end": 44.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.005643861833959818
+    },
+    {
+      "text": "差",
+      "start": 44.94,
+      "end": 45.059,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00021705655672121793
+    },
+    {
+      "text": "不",
+      "start": 45.06,
+      "end": 45.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.985420623095706e-05
+    },
+    {
+      "text": "多",
+      "start": 45.22,
+      "end": 45.339,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.437280717364047e-06
+    },
+    {
+      "text": "一",
+      "start": 45.34,
+      "end": 45.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0020093980710953474
+    },
+    {
+      "text": "样",
+      "start": 45.52,
+      "end": 45.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0020093980710953474
+    },
+    {
+      "text": "多",
+      "start": 45.74,
+      "end": 45.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.4834770708112046e-05
+    },
+    {
+      "text": "，",
+      "start": 45.94,
+      "end": 46.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0017141900025308132
+    },
+    {
+      "text": "所",
+      "start": 46.64,
+      "end": 46.8,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0017141900025308132
+    },
+    {
+      "text": "以",
+      "start": 46.8,
+      "end": 48.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0017141900025308132
+    },
+    {
+      "text": "我",
+      "start": 48.7,
+      "end": 49.14,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.145769402384758
+    },
+    {
+      "text": "也",
+      "start": 49.14,
+      "end": 49.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.4475199580192566
+    },
+    {
+      "text": "有",
+      "start": 49.5,
+      "end": 49.8,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.4475199580192566
+    },
+    {
+      "text": "去",
+      "start": 49.8,
+      "end": 49.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.8347156047821045
+    },
+    {
+      "text": "。",
+      "start": 49.94,
+      "end": 49.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.564294092939235e-05
+    },
+    {
+      "text": "我",
+      "start": 56.02,
+      "end": 56.14,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.105902816168964e-05
+    },
+    {
+      "text": "们",
+      "start": 56.14,
+      "end": 56.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.105902816168964e-05
+    },
+    {
+      "text": "和",
+      "start": 56.94,
+      "end": 57.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00041786045767366886
+    },
+    {
+      "text": "美",
+      "start": 57.82,
+      "end": 58.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.3841855067985307e-07
+    },
+    {
+      "text": "煤",
+      "start": 58.0,
+      "end": 58.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.173549288883805e-05
+    },
+    {
+      "text": "矿",
+      "start": 58.22,
+      "end": 58.32,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.635817120084539e-05
+    },
+    {
+      "text": "是",
+      "start": 58.32,
+      "end": 58.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00021228920377325267
+    },
+    {
+      "text": "台",
+      "start": 58.68,
+      "end": 58.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.012910353019833565
+    },
+    {
+      "text": "湾",
+      "start": 58.78,
+      "end": 59.32,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005940818227827549
+    },
+    {
+      "text": "最",
+      "start": 59.32,
+      "end": 59.58,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.062299427052494e-05
+    },
+    {
+      "text": "特",
+      "start": 59.58,
+      "end": 59.839,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00029047083808109164
+    },
+    {
+      "text": "殊",
+      "start": 59.84,
+      "end": 59.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00029047083808109164
+    },
+    {
+      "text": "的",
+      "start": 59.96,
+      "end": 60.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0008905735448934138
+    },
+    {
+      "text": "，",
+      "start": 60.54,
+      "end": 60.55,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.14869247376918793
+    },
+    {
+      "text": "它",
+      "start": 60.55,
+      "end": 60.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.14869247376918793
+    },
+    {
+      "text": "运",
+      "start": 60.68,
+      "end": 60.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.727005090098828e-05
+    },
+    {
+      "text": "煤",
+      "start": 60.84,
+      "end": 61.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.651657167822123e-05
+    },
+    {
+      "text": "是",
+      "start": 61.04,
+      "end": 61.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0013654442736878991
+    },
+    {
+      "text": "用",
+      "start": 61.4,
+      "end": 61.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00017450717859901488
+    },
+    {
+      "text": "船",
+      "start": 61.86,
+      "end": 61.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.583032467868179e-06
+    },
+    {
+      "text": "运",
+      "start": 61.96,
+      "end": 62.16,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.1377883210079744e-05
+    },
+    {
+      "text": "运",
+      "start": 62.16,
+      "end": 62.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.007756826933473349
+    },
+    {
+      "text": "煤",
+      "start": 62.36,
+      "end": 62.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.011726967059075832
+    },
+    {
+      "text": "。",
+      "start": 62.4,
+      "end": 62.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.09289155900478363
+    },
+    {
+      "text": "我",
+      "start": 65.379,
+      "end": 66.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.008998436853289604
+    },
+    {
+      "text": "们",
+      "start": 66.24,
+      "end": 66.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.008998436853289604
+    },
+    {
+      "text": "要",
+      "start": 66.34,
+      "end": 66.58,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4424220353248529e-05
+    },
+    {
+      "text": "过",
+      "start": 66.58,
+      "end": 66.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00011491115583339706
+    },
+    {
+      "text": "去",
+      "start": 66.82,
+      "end": 66.9,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00011491115583339706
+    },
+    {
+      "text": "，",
+      "start": 66.9,
+      "end": 66.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.8954096958623268e-05
+    },
+    {
+      "text": "我",
+      "start": 66.96,
+      "end": 67.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.8954096958623268e-05
+    },
+    {
+      "text": "们",
+      "start": 67.06,
+      "end": 67.18,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.8954096958623268e-05
+    },
+    {
+      "text": "就",
+      "start": 67.18,
+      "end": 67.42,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.6000557884108275e-05
+    },
+    {
+      "text": "坐",
+      "start": 67.42,
+      "end": 67.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00014661667228210717
+    },
+    {
+      "text": "渡",
+      "start": 67.5,
+      "end": 67.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0004481264913920313
+    },
+    {
+      "text": "船",
+      "start": 67.78,
+      "end": 67.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015686711412854493
+    },
+    {
+      "text": "过",
+      "start": 67.96,
+      "end": 68.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.802703940891661e-05
+    },
+    {
+      "text": "去",
+      "start": 68.12,
+      "end": 68.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.802703940891661e-05
+    },
+    {
+      "text": "，",
+      "start": 68.22,
+      "end": 68.28,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015031162183731794
+    },
+    {
+      "text": "然",
+      "start": 68.28,
+      "end": 68.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015031162183731794
+    },
+    {
+      "text": "后",
+      "start": 68.6,
+      "end": 69.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015031162183731794
+    },
+    {
+      "text": "运",
+      "start": 69.88,
+      "end": 70.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.03795809671282768
+    },
+    {
+      "text": "煤",
+      "start": 70.12,
+      "end": 70.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005974177038297057
+    },
+    {
+      "text": "就",
+      "start": 70.34,
+      "end": 70.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01605311781167984
+    },
+    {
+      "text": "，",
+      "start": 70.78,
+      "end": 70.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.281398057937622
+    },
+    {
+      "text": "用",
+      "start": 72.28,
+      "end": 72.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01848108321428299
+    },
+    {
+      "text": "船",
+      "start": 72.74,
+      "end": 72.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.3112935448589269e-05
+    },
+    {
+      "text": "运",
+      "start": 72.86,
+      "end": 73.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.825220326485578e-05
+    },
+    {
+      "text": "煤",
+      "start": 73.1,
+      "end": 73.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.057670604437589645
+    },
+    {
+      "text": "到",
+      "start": 73.5,
+      "end": 75.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.0013530300057027e-05
+    },
+    {
+      "text": "加",
+      "start": 75.46,
+      "end": 76.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.030119942501187325
+    },
+    {
+      "text": "州",
+      "start": 76.0,
+      "end": 76.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.004138477612286806
+    },
+    {
+      "text": "旅",
+      "start": 76.3,
+      "end": 76.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.010912974365055561
+    },
+    {
+      "text": "社",
+      "start": 76.44,
+      "end": 76.62,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.2845747768878937
+    },
+    {
+      "text": "那",
+      "start": 76.62,
+      "end": 76.8,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.012963307090103626
+    },
+    {
+      "text": "里",
+      "start": 76.8,
+      "end": 76.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.012963307090103626
+    },
+    {
+      "text": "，",
+      "start": 76.84,
+      "end": 76.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.011209252290427685
+    },
+    {
+      "text": "那",
+      "start": 76.98,
+      "end": 77.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.011209252290427685
+    },
+    {
+      "text": "个",
+      "start": 77.5,
+      "end": 77.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.31770560145378113
+    },
+    {
+      "text": "那",
+      "start": 77.76,
+      "end": 78.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.07948534935712814
+    },
+    {
+      "text": "里",
+      "start": 78.12,
+      "end": 78.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.07948534935712814
+    },
+    {
+      "text": "是",
+      "start": 78.4,
+      "end": 79.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001427227514795959
+    },
+    {
+      "text": "车",
+      "start": 79.3,
+      "end": 79.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00023541064001619816
+    },
+    {
+      "text": "站",
+      "start": 79.52,
+      "end": 79.619,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015186110977083445
+    },
+    {
+      "text": "的",
+      "start": 79.62,
+      "end": 79.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.794906312279636e-06
+    },
+    {
+      "text": "最",
+      "start": 79.88,
+      "end": 80.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002520958660170436
+    },
+    {
+      "text": "后",
+      "start": 80.02,
+      "end": 80.16,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002520958660170436
+    },
+    {
+      "text": "一",
+      "start": 80.16,
+      "end": 80.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.274052717955783e-05
+    },
+    {
+      "text": "个",
+      "start": 80.24,
+      "end": 80.42,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.274052717955783e-05
+    },
+    {
+      "text": "站",
+      "start": 80.52,
+      "end": 80.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00043442347669042647
+    },
+    {
+      "text": "，",
+      "start": 80.66,
+      "end": 81.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.1020273531321436e-05
+    },
+    {
+      "text": "然",
+      "start": 81.22,
+      "end": 81.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.1020273531321436e-05
+    },
+    {
+      "text": "后",
+      "start": 81.48,
+      "end": 82.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.1020273531321436e-05
+    },
+    {
+      "text": "很",
+      "start": 82.2,
+      "end": 82.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005085367010906339
+    },
+    {
+      "text": "多",
+      "start": 82.52,
+      "end": 82.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005085367010906339
+    },
+    {
+      "text": "货",
+      "start": 82.74,
+      "end": 82.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.002279185689985752
+    },
+    {
+      "text": "那",
+      "start": 82.94,
+      "end": 83.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.3098260164260864
+    },
+    {
+      "text": "个",
+      "start": 83.64,
+      "end": 84.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.3098260164260864
+    },
+    {
+      "text": "卡",
+      "start": 84.34,
+      "end": 84.56,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.1219027985353023e-05
+    },
+    {
+      "text": "车",
+      "start": 84.56,
+      "end": 84.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00024863966973498464
+    },
+    {
+      "text": "、",
+      "start": 84.68,
+      "end": 84.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.5525710582733154
+    },
+    {
+      "text": "货",
+      "start": 85.16,
+      "end": 85.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.658331868587993e-05
+    },
+    {
+      "text": "车",
+      "start": 85.24,
+      "end": 85.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0003182381624355912
+    },
+    {
+      "text": "就",
+      "start": 85.44,
+      "end": 85.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.011623752303421497
+    },
+    {
+      "text": "放",
+      "start": 85.66,
+      "end": 85.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002653246629051864
+    },
+    {
+      "text": "在",
+      "start": 85.82,
+      "end": 85.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002653246629051864
+    },
+    {
+      "text": "那",
+      "start": 85.94,
+      "end": 86.08,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00017689094238448888
+    },
+    {
+      "text": "里",
+      "start": 86.08,
+      "end": 86.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00017689094238448888
+    },
+    {
+      "text": "，",
+      "start": 86.12,
+      "end": 86.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.512448741588742e-05
+    },
+    {
+      "text": "我",
+      "start": 86.3,
+      "end": 86.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.512448741588742e-05
+    },
+    {
+      "text": "们",
+      "start": 86.36,
+      "end": 86.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.512448741588742e-05
+    },
+    {
+      "text": "就",
+      "start": 86.48,
+      "end": 86.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00367216719314456
+    },
+    {
+      "text": "从",
+      "start": 86.64,
+      "end": 86.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00023672162205912173
+    },
+    {
+      "text": "那",
+      "start": 86.82,
+      "end": 87.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.602820692729438e-06
+    },
+    {
+      "text": "边",
+      "start": 87.0,
+      "end": 87.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0008000510279089212
+    },
+    {
+      "text": "，",
+      "start": 87.06,
+      "end": 87.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00012158608296886086
+    },
+    {
+      "text": "和",
+      "start": 87.6,
+      "end": 87.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00019298121333122253
+    },
+    {
+      "text": "美",
+      "start": 87.74,
+      "end": 87.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.13198105990886688
+    },
+    {
+      "text": "煤",
+      "start": 87.96,
+      "end": 88.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.684815212385729e-05
+    },
+    {
+      "text": "矿",
+      "start": 88.06,
+      "end": 88.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.426462980220094e-05
+    },
+    {
+      "text": "就",
+      "start": 88.24,
+      "end": 88.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005199749139137566
+    },
+    {
+      "text": "从",
+      "start": 88.44,
+      "end": 88.56,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.911301948595792e-05
+    },
+    {
+      "text": "那",
+      "start": 88.56,
+      "end": 88.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.283422019099817e-05
+    },
+    {
+      "text": "边",
+      "start": 88.84,
+      "end": 89.42,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.023174863308668137
+    },
+    {
+      "text": "用",
+      "start": 89.42,
+      "end": 89.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0009309487068094313
+    },
+    {
+      "text": "挑",
+      "start": 89.78,
+      "end": 89.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01579570397734642
+    },
+    {
+      "text": "的",
+      "start": 89.94,
+      "end": 90.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.136476854910143e-05
+    },
+    {
+      "text": "，",
+      "start": 90.02,
+      "end": 90.42,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.006976293865591288
+    },
+    {
+      "text": "有",
+      "start": 90.76,
+      "end": 90.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.006976293865591288
+    },
+    {
+      "text": "的",
+      "start": 90.86,
+      "end": 91.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.04855098947882652
+    },
+    {
+      "text": "用",
+      "start": 91.12,
+      "end": 91.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0003289635351393372
+    },
+    {
+      "text": "是",
+      "start": 91.34,
+      "end": 91.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001427584677003324
+    },
+    {
+      "text": "用",
+      "start": 91.6,
+      "end": 91.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0007736074039712548
+    },
+    {
+      "text": "那",
+      "start": 91.74,
+      "end": 91.979,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002115741081070155
+    },
+    {
+      "text": "个",
+      "start": 91.98,
+      "end": 93.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002115741081070155
+    },
+    {
+      "text": "输",
+      "start": 93.12,
+      "end": 93.32,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.31234607100486755
+    },
+    {
+      "text": "送",
+      "start": 93.32,
+      "end": 93.58,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.113947918289341e-05
+    },
+    {
+      "text": "带",
+      "start": 93.58,
+      "end": 94.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00021336186910048127
+    },
+    {
+      "text": "拉",
+      "start": 94.5,
+      "end": 94.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0007974305190145969
+    },
+    {
+      "text": "的",
+      "start": 94.6,
+      "end": 94.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00036590558011084795
+    },
+    {
+      "text": "，",
+      "start": 94.76,
+      "end": 94.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.1131041869521141
+    },
+    {
+      "text": "后",
+      "start": 94.88,
+      "end": 95.039,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.1512356996536255
+    },
+    {
+      "text": "来",
+      "start": 95.04,
+      "end": 95.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.2304920107126236
+    },
+    {
+      "text": "用",
+      "start": 95.22,
+      "end": 95.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002485204895492643
+    },
+    {
+      "text": "输",
+      "start": 95.3,
+      "end": 95.539,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001902914373204112
+    },
+    {
+      "text": "送",
+      "start": 95.54,
+      "end": 95.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.6940935640595853e-05
+    },
+    {
+      "text": "带",
+      "start": 95.7,
+      "end": 95.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0001408954558428377
+    },
+    {
+      "text": "拉",
+      "start": 95.88,
+      "end": 95.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0016905077500268817
+    },
+    {
+      "text": "的",
+      "start": 95.98,
+      "end": 96.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.36596664786338806
+    },
+    {
+      "text": "煤",
+      "start": 96.6,
+      "end": 97.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0014017528155818582
+    },
+    {
+      "text": "，",
+      "start": 97.24,
+      "end": 97.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.046925194561481476
+    },
+    {
+      "text": "从",
+      "start": 97.44,
+      "end": 97.8,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.046925194561481476
+    },
+    {
+      "text": "船",
+      "start": 97.8,
+      "end": 98.08,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.7338023907504976e-05
+    },
+    {
+      "text": "上",
+      "start": 98.08,
+      "end": 98.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.145764938177308e-06
+    },
+    {
+      "text": "拉",
+      "start": 98.64,
+      "end": 99.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.629365427419543e-06
+    },
+    {
+      "text": "到",
+      "start": 99.0,
+      "end": 99.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4066597032069694e-05
+    },
+    {
+      "text": "货",
+      "start": 99.68,
+      "end": 99.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.000977276940830052
+    },
+    {
+      "text": "车",
+      "start": 99.74,
+      "end": 100.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0004820853646378964
+    },
+    {
+      "text": "上",
+      "start": 100.02,
+      "end": 100.28,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.364403477869928e-06
+    },
+    {
+      "text": "，",
+      "start": 100.46,
+      "end": 100.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4781842764932662e-05
+    },
+    {
+      "text": "然",
+      "start": 100.48,
+      "end": 100.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4781842764932662e-05
+    },
+    {
+      "text": "后",
+      "start": 100.7,
+      "end": 102.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4781842764932662e-05
+    },
+    {
+      "text": "火",
+      "start": 102.2,
+      "end": 102.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.025496143847703934
+    },
+    {
+      "text": "车",
+      "start": 102.4,
+      "end": 102.58,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00029452278977259994
+    },
+    {
+      "text": "就",
+      "start": 102.58,
+      "end": 102.72,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0011143434094265103
+    },
+    {
+      "text": "把",
+      "start": 102.72,
+      "end": 102.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0017957051750272512
+    },
+    {
+      "text": "它",
+      "start": 102.94,
+      "end": 103.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00023278864682652056
+    },
+    {
+      "text": "载",
+      "start": 103.22,
+      "end": 103.38,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.02528020553290844
+    },
+    {
+      "text": "到",
+      "start": 103.38,
+      "end": 103.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00016366096679121256
+    },
+    {
+      "text": "万",
+      "start": 103.92,
+      "end": 104.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.6412820816040039
+    },
+    {
+      "text": "华",
+      "start": 104.92,
+      "end": 105.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001695387065410614
+    },
+    {
+      "text": "那",
+      "start": 105.1,
+      "end": 105.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0008269704412668943
+    },
+    {
+      "text": "边",
+      "start": 105.36,
+      "end": 105.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.008773825131356716
+    },
+    {
+      "text": "。",
+      "start": 105.46,
+      "end": 105.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.245195097813848e-06
+    },
+    {
+      "text": "和",
+      "start": 114.12,
+      "end": 114.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0016649207100272179
+    },
+    {
+      "text": "美",
+      "start": 114.36,
+      "end": 114.56,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.748573807475623e-06
+    },
+    {
+      "text": "山",
+      "start": 114.56,
+      "end": 114.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.437280717364047e-06
+    },
+    {
+      "text": "步",
+      "start": 114.66,
+      "end": 114.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00041500062798149884
+    },
+    {
+      "text": "道",
+      "start": 114.96,
+      "end": 115.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.390948667307384e-06
+    },
+    {
+      "text": "是",
+      "start": 115.06,
+      "end": 115.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0021333571057766676
+    },
+    {
+      "text": "这",
+      "start": 115.26,
+      "end": 115.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0001829695247579366
+    },
+    {
+      "text": "样",
+      "start": 115.44,
+      "end": 115.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0001829695247579366
+    },
+    {
+      "text": "，",
+      "start": 115.48,
+      "end": 116.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00222375919111073
+    },
+    {
+      "text": "因",
+      "start": 116.3,
+      "end": 116.58,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00222375919111073
+    },
+    {
+      "text": "为",
+      "start": 116.58,
+      "end": 117.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00222375919111073
+    },
+    {
+      "text": "那",
+      "start": 117.2,
+      "end": 117.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00042572495294734836
+    },
+    {
+      "text": "个",
+      "start": 117.86,
+      "end": 118.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00042572495294734836
+    },
+    {
+      "text": "颱",
+      "start": 118.52,
+      "end": 118.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.3656728267669678
+    },
+    {
+      "text": "风",
+      "start": 118.82,
+      "end": 118.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0010918376501649618
+    },
+    {
+      "text": "的",
+      "start": 118.94,
+      "end": 119.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.0437283536884934e-05
+    },
+    {
+      "text": "时",
+      "start": 119.1,
+      "end": 119.38,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.0437283536884934e-05
+    },
+    {
+      "text": "候",
+      "start": 119.38,
+      "end": 119.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.0437283536884934e-05
+    },
+    {
+      "text": "，",
+      "start": 119.44,
+      "end": 119.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.09736953675746918
+    },
+    {
+      "text": "或",
+      "start": 119.98,
+      "end": 120.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.8954096958623268e-05
+    },
+    {
+      "text": "者",
+      "start": 120.1,
+      "end": 120.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.8954096958623268e-05
+    },
+    {
+      "text": "是",
+      "start": 120.3,
+      "end": 120.42,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0027246277313679457
+    },
+    {
+      "text": "大",
+      "start": 120.54,
+      "end": 120.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.153582894010469e-05
+    },
+    {
+      "text": "水",
+      "start": 120.88,
+      "end": 120.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.31528314948082e-05
+    },
+    {
+      "text": "的",
+      "start": 120.98,
+      "end": 121.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005665604257956147
+    },
+    {
+      "text": "时",
+      "start": 121.12,
+      "end": 121.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005665604257956147
+    },
+    {
+      "text": "候",
+      "start": 121.4,
+      "end": 121.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005665604257956147
+    },
+    {
+      "text": "，",
+      "start": 121.5,
+      "end": 122.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0008660380262881517
+    },
+    {
+      "text": "那",
+      "start": 122.24,
+      "end": 122.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0008660380262881517
+    },
+    {
+      "text": "个",
+      "start": 122.74,
+      "end": 122.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.06557828187942505
+    },
+    {
+      "text": "渡",
+      "start": 122.96,
+      "end": 123.14,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00046456989366561174
+    },
+    {
+      "text": "船",
+      "start": 123.14,
+      "end": 123.32,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.935142715112306e-05
+    },
+    {
+      "text": "不",
+      "start": 123.32,
+      "end": 123.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.48477507638745e-05
+    },
+    {
+      "text": "能",
+      "start": 123.46,
+      "end": 123.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.48477507638745e-05
+    },
+    {
+      "text": "过",
+      "start": 123.74,
+      "end": 124.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.909988299710676e-05
+    },
+    {
+      "text": "，",
+      "start": 124.04,
+      "end": 124.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.047575440490618e-05
+    },
+    {
+      "text": "那",
+      "start": 124.12,
+      "end": 124.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.047575440490618e-05
+    },
+    {
+      "text": "就",
+      "start": 124.24,
+      "end": 124.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.2543604902457446e-05
+    },
+    {
+      "text": "没",
+      "start": 124.36,
+      "end": 124.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0007765853079035878
+    },
+    {
+      "text": "有",
+      "start": 124.46,
+      "end": 124.58,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0007765853079035878
+    },
+    {
+      "text": "办",
+      "start": 124.58,
+      "end": 124.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.595887240720913e-05
+    },
+    {
+      "text": "法",
+      "start": 124.68,
+      "end": 124.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.595887240720913e-05
+    },
+    {
+      "text": "去",
+      "start": 124.88,
+      "end": 125.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.011073562316596508
+    },
+    {
+      "text": "上",
+      "start": 125.24,
+      "end": 125.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001166259404271841
+    },
+    {
+      "text": "工",
+      "start": 125.74,
+      "end": 125.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.02054622210562229
+    },
+    {
+      "text": "了",
+      "start": 125.86,
+      "end": 125.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.602820692729438e-06
+    },
+    {
+      "text": "嘛",
+      "start": 125.96,
+      "end": 126.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.004951239563524723
+    },
+    {
+      "text": "，",
+      "start": 126.04,
+      "end": 126.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.04261135309934616
+    },
+    {
+      "text": "所",
+      "start": 126.82,
+      "end": 126.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.04261135309934616
+    },
+    {
+      "text": "以",
+      "start": 126.92,
+      "end": 127.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.04261135309934616
+    },
+    {
+      "text": "就",
+      "start": 127.22,
+      "end": 127.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.390948667307384e-06
+    },
+    {
+      "text": "开",
+      "start": 127.92,
+      "end": 128.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.3828182090946939e-05
+    },
+    {
+      "text": "了",
+      "start": 128.06,
+      "end": 128.14,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00023398046323563904
+    },
+    {
+      "text": "一",
+      "start": 128.14,
+      "end": 128.38,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.344646857949556e-07
+    },
+    {
+      "text": "个",
+      "start": 128.38,
+      "end": 129.479,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.344646857949556e-07
+    },
+    {
+      "text": "步",
+      "start": 129.479,
+      "end": 129.679,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00022659118985757232
+    },
+    {
+      "text": "道",
+      "start": 129.68,
+      "end": 129.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.152555099310121e-07
+    },
+    {
+      "text": "，",
+      "start": 129.84,
+      "end": 130.18,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0020276003051549196
+    },
+    {
+      "text": "就",
+      "start": 130.18,
+      "end": 130.28,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0020276003051549196
+    },
+    {
+      "text": "从",
+      "start": 130.28,
+      "end": 131.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0007503792876377702
+    },
+    {
+      "text": "开",
+      "start": 131.54,
+      "end": 131.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.027511604130268097
+    },
+    {
+      "text": "来",
+      "start": 131.7,
+      "end": 131.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.4813554883003235
+    },
+    {
+      "text": "一",
+      "start": 131.86,
+      "end": 131.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.003611947875469923
+    },
+    {
+      "text": "个",
+      "start": 131.94,
+      "end": 132.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.003611947875469923
+    },
+    {
+      "text": "步",
+      "start": 132.1,
+      "end": 132.32,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.5139465176616795e-05
+    },
+    {
+      "text": "道",
+      "start": 132.32,
+      "end": 132.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.9444261599564925e-05
+    },
+    {
+      "text": "到",
+      "start": 132.4,
+      "end": 133.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0003541081096045673
+    },
+    {
+      "text": "煤",
+      "start": 133.04,
+      "end": 133.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0071115936152637005
+    },
+    {
+      "text": "矿",
+      "start": 133.34,
+      "end": 133.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0001134808044298552
+    },
+    {
+      "text": "，",
+      "start": 133.48,
+      "end": 134.799,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.6144911050796509
+    },
+    {
+      "text": "所",
+      "start": 134.8,
+      "end": 134.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.6144911050796509
+    },
+    {
+      "text": "以",
+      "start": 134.88,
+      "end": 135.019,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.6144911050796509
+    },
+    {
+      "text": "他",
+      "start": 135.02,
+      "end": 135.14,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0017300175968557596
+    },
+    {
+      "text": "们",
+      "start": 135.14,
+      "end": 135.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0017300175968557596
+    },
+    {
+      "text": "雨",
+      "start": 135.4,
+      "end": 135.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.016748294234275818
+    },
+    {
+      "text": "天",
+      "start": 135.78,
+      "end": 136.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.50339189733495e-06
+    },
+    {
+      "text": "也",
+      "start": 136.2,
+      "end": 136.42,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.1483970562694594e-05
+    },
+    {
+      "text": "可",
+      "start": 136.42,
+      "end": 136.62,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.015949550899677e-05
+    },
+    {
+      "text": "以",
+      "start": 136.62,
+      "end": 136.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.015949550899677e-05
+    },
+    {
+      "text": "去",
+      "start": 136.84,
+      "end": 137.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.059865078597795e-06
+    },
+    {
+      "text": "上",
+      "start": 137.2,
+      "end": 137.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.311301275563892e-06
+    },
+    {
+      "text": "班",
+      "start": 137.44,
+      "end": 137.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.5549986427649856e-05
+    },
+    {
+      "text": "。",
+      "start": 137.54,
+      "end": 137.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.344646857949556e-07
+    },
+    {
+      "text": "有",
+      "start": 162.12,
+      "end": 162.28,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001677297754213214
+    },
+    {
+      "text": "啊",
+      "start": 162.28,
+      "end": 162.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.913899414939806e-05
+    },
+    {
+      "text": "，",
+      "start": 162.36,
+      "end": 162.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015066919149830937
+    },
+    {
+      "text": "有",
+      "start": 162.74,
+      "end": 162.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015066919149830937
+    },
+    {
+      "text": "过",
+      "start": 162.96,
+      "end": 163.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0006220789509825408
+    },
+    {
+      "text": "。",
+      "start": 163.12,
+      "end": 163.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.895853579044342
+    },
+    {
+      "text": "而",
+      "start": 163.5,
+      "end": 163.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.895853579044342
+    },
+    {
+      "text": "且",
+      "start": 163.66,
+      "end": 164.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.000198821333469823
+    },
+    {
+      "text": "都",
+      "start": 164.26,
+      "end": 164.579,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.005004854407161474
+    },
+    {
+      "text": "是",
+      "start": 164.58,
+      "end": 167.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.005004854407161474
+    },
+    {
+      "text": "在",
+      "start": 167.78,
+      "end": 168.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.14510096609592438
+    },
+    {
+      "text": "一",
+      "start": 168.04,
+      "end": 168.16,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.475421054754406e-05
+    },
+    {
+      "text": "起",
+      "start": 168.16,
+      "end": 168.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.475421054754406e-05
+    },
+    {
+      "text": "工",
+      "start": 168.4,
+      "end": 168.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00035363141796551645
+    },
+    {
+      "text": "作",
+      "start": 168.52,
+      "end": 168.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00035363141796551645
+    },
+    {
+      "text": "很",
+      "start": 168.7,
+      "end": 168.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4543427823809907e-05
+    },
+    {
+      "text": "久",
+      "start": 168.84,
+      "end": 169.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001141968765296042
+    },
+    {
+      "text": "的",
+      "start": 169.0,
+      "end": 169.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.585470999998506e-05
+    },
+    {
+      "text": "老",
+      "start": 169.6,
+      "end": 169.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.010443797335028648
+    },
+    {
+      "text": "师",
+      "start": 169.76,
+      "end": 170.04,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.010443797335028648
+    },
+    {
+      "text": "傅",
+      "start": 170.04,
+      "end": 170.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.020643381401896477
+    },
+    {
+      "text": "，",
+      "start": 170.1,
+      "end": 170.42,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.014680929481983185
+    },
+    {
+      "text": "那",
+      "start": 171.1,
+      "end": 171.18,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.014680929481983185
+    },
+    {
+      "text": "是",
+      "start": 171.18,
+      "end": 171.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00013731967192143202
+    },
+    {
+      "text": "从",
+      "start": 171.3,
+      "end": 171.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.279521817807108e-05
+    },
+    {
+      "text": "正",
+      "start": 171.7,
+      "end": 171.78,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.5427953004837036
+    },
+    {
+      "text": "山",
+      "start": 171.78,
+      "end": 172.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.15433669090271
+    },
+    {
+      "text": "煤",
+      "start": 172.0,
+      "end": 172.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.353653589030728e-05
+    },
+    {
+      "text": "矿",
+      "start": 172.2,
+      "end": 172.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00023946279543451965
+    },
+    {
+      "text": "那",
+      "start": 172.36,
+      "end": 172.66,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00018094333063345402
+    },
+    {
+      "text": "边",
+      "start": 172.66,
+      "end": 172.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0041675628162920475
+    },
+    {
+      "text": "，",
+      "start": 172.7,
+      "end": 174.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.047038935124874115
+    },
+    {
+      "text": "正",
+      "start": 176.0,
+      "end": 176.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0060784476809203625
+    },
+    {
+      "text": "山",
+      "start": 176.1,
+      "end": 176.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.113947918289341e-05
+    },
+    {
+      "text": "煤",
+      "start": 176.24,
+      "end": 176.36,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0001776060671545565
+    },
+    {
+      "text": "矿",
+      "start": 176.36,
+      "end": 176.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.260862523457035e-05
+    },
+    {
+      "text": "结",
+      "start": 176.82,
+      "end": 177.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.004001468885689974
+    },
+    {
+      "text": "束",
+      "start": 177.0,
+      "end": 177.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.004001468885689974
+    },
+    {
+      "text": "的",
+      "start": 177.12,
+      "end": 177.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.686121585313231e-05
+    },
+    {
+      "text": "时",
+      "start": 177.22,
+      "end": 177.38,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.686121585313231e-05
+    },
+    {
+      "text": "候",
+      "start": 177.38,
+      "end": 177.799,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.686121585313231e-05
+    },
+    {
+      "text": "全",
+      "start": 177.8,
+      "end": 177.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.006160318851470947
+    },
+    {
+      "text": "部",
+      "start": 177.92,
+      "end": 178.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.006160318851470947
+    },
+    {
+      "text": "跟",
+      "start": 178.26,
+      "end": 178.399,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0010931475553661585
+    },
+    {
+      "text": "着",
+      "start": 178.4,
+      "end": 178.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005843124235980213
+    },
+    {
+      "text": "我",
+      "start": 178.48,
+      "end": 178.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.0847986231965479e-05
+    },
+    {
+      "text": "爸",
+      "start": 178.64,
+      "end": 178.8,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.6756979322235566e-06
+    },
+    {
+      "text": "爸",
+      "start": 178.8,
+      "end": 179.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.022463589441031e-05
+    },
+    {
+      "text": "到",
+      "start": 179.48,
+      "end": 179.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.0132738680113107e-05
+    },
+    {
+      "text": "和",
+      "start": 179.7,
+      "end": 179.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -8.05822346592322e-05
+    },
+    {
+      "text": "美",
+      "start": 179.92,
+      "end": 180.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.622600959512056e-06
+    },
+    {
+      "text": "来",
+      "start": 180.12,
+      "end": 180.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.580135959666222e-05
+    },
+    {
+      "text": "的",
+      "start": 180.24,
+      "end": 180.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -6.580135959666222e-05
+    },
+    {
+      "text": "。",
+      "start": 180.44,
+      "end": 180.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0019985719118267298
+    },
+    {
+      "text": "那",
+      "start": 181.7,
+      "end": 181.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0019985719118267298
+    },
+    {
+      "text": "一",
+      "start": 181.82,
+      "end": 182.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00011395759065635502
+    },
+    {
+      "text": "班",
+      "start": 182.06,
+      "end": 182.38,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.006169559899717569
+    },
+    {
+      "text": "，",
+      "start": 182.38,
+      "end": 182.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0024222577922046185
+    },
+    {
+      "text": "那",
+      "start": 182.46,
+      "end": 182.52,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0024222577922046185
+    },
+    {
+      "text": "一",
+      "start": 182.52,
+      "end": 182.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.0728830375228426e-06
+    },
+    {
+      "text": "班",
+      "start": 182.68,
+      "end": 182.8,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0001919085334520787
+    },
+    {
+      "text": "全",
+      "start": 182.8,
+      "end": 183.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0009029601933434606
+    },
+    {
+      "text": "部",
+      "start": 183.1,
+      "end": 183.239,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0009029601933434606
+    },
+    {
+      "text": "跟",
+      "start": 183.24,
+      "end": 183.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.768360213347478e-06
+    },
+    {
+      "text": "着",
+      "start": 183.4,
+      "end": 183.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00029952809563837945
+    },
+    {
+      "text": "我",
+      "start": 183.54,
+      "end": 183.62,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.0531076592742465e-06
+    },
+    {
+      "text": "爸",
+      "start": 183.62,
+      "end": 183.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -4.458328112377785e-05
+    },
+    {
+      "text": "爸",
+      "start": 183.76,
+      "end": 184.019,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.884823152271565e-05
+    },
+    {
+      "text": "来",
+      "start": 184.02,
+      "end": 184.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0014481781981885433
+    },
+    {
+      "text": "了",
+      "start": 184.1,
+      "end": 184.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0014481781981885433
+    },
+    {
+      "text": "。",
+      "start": 184.22,
+      "end": 184.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.045020902296528e-05
+    },
+    {
+      "text": "原",
+      "start": 198.6,
+      "end": 199.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0073830848559737206
+    },
+    {
+      "text": "来",
+      "start": 199.0,
+      "end": 199.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0073830848559737206
+    },
+    {
+      "text": "是",
+      "start": 199.88,
+      "end": 199.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.21981312334537506
+    },
+    {
+      "text": "还",
+      "start": 199.96,
+      "end": 200.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.10766642540693283
+    },
+    {
+      "text": "有",
+      "start": 200.32,
+      "end": 200.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.10766642540693283
+    },
+    {
+      "text": "联",
+      "start": 200.54,
+      "end": 200.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00022182388056535274
+    },
+    {
+      "text": "系",
+      "start": 200.7,
+      "end": 200.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00022182388056535274
+    },
+    {
+      "text": "的",
+      "start": 200.76,
+      "end": 200.86,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0009465504554100335
+    },
+    {
+      "text": "，",
+      "start": 200.86,
+      "end": 200.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.17087945342063904
+    },
+    {
+      "text": "比",
+      "start": 200.92,
+      "end": 201.02,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.17087945342063904
+    },
+    {
+      "text": "如",
+      "start": 201.02,
+      "end": 201.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00024732868769206107
+    },
+    {
+      "text": "说",
+      "start": 201.2,
+      "end": 202.22,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.2066785934148356e-05
+    },
+    {
+      "text": "电",
+      "start": 202.22,
+      "end": 202.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0032772899139672518
+    },
+    {
+      "text": "气",
+      "start": 202.5,
+      "end": 202.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.03857983648777008
+    },
+    {
+      "text": "师",
+      "start": 202.64,
+      "end": 203.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.372236667724792e-05
+    },
+    {
+      "text": "傅",
+      "start": 203.06,
+      "end": 203.24,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.006388006266206503
+    },
+    {
+      "text": "啊",
+      "start": 203.24,
+      "end": 203.46,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0006332775810733438
+    },
+    {
+      "text": "，",
+      "start": 203.46,
+      "end": 203.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.002277996391057968
+    },
+    {
+      "text": "阿",
+      "start": 203.68,
+      "end": 203.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -5.640321731567383
+    },
+    {
+      "text": "板",
+      "start": 203.96,
+      "end": 204.32,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.2279670238494873
+    },
+    {
+      "text": "塞",
+      "start": 204.32,
+      "end": 204.56,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.590104341506958
+    },
+    {
+      "text": "啊",
+      "start": 204.56,
+      "end": 204.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.4629572331905365
+    },
+    {
+      "text": "，",
+      "start": 204.7,
+      "end": 205.18,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0001102625101339072
+    },
+    {
+      "text": "还",
+      "start": 205.18,
+      "end": 205.44,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.266281055402942e-05
+    },
+    {
+      "text": "是",
+      "start": 205.44,
+      "end": 205.88,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -3.266281055402942e-05
+    },
+    {
+      "text": "那",
+      "start": 205.88,
+      "end": 206.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005585778853856027
+    },
+    {
+      "text": "个",
+      "start": 206.0,
+      "end": 206.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0005585778853856027
+    },
+    {
+      "text": "那",
+      "start": 206.84,
+      "end": 207.08,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.046115804463624954
+    },
+    {
+      "text": "个",
+      "start": 207.08,
+      "end": 207.56,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.046115804463624954
+    },
+    {
+      "text": "有",
+      "start": 207.56,
+      "end": 207.9,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.1565842479467392
+    },
+    {
+      "text": "那",
+      "start": 207.9,
+      "end": 208.1,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.884823152271565e-05
+    },
+    {
+      "text": "个",
+      "start": 208.1,
+      "end": 208.5,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.884823152271565e-05
+    },
+    {
+      "text": "坑",
+      "start": 208.5,
+      "end": 208.82,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.540195882320404
+    },
+    {
+      "text": "内",
+      "start": 208.82,
+      "end": 208.92,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.007254212629050016
+    },
+    {
+      "text": "的",
+      "start": 208.92,
+      "end": 209.14,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.010356376878917217
+    },
+    {
+      "text": "师",
+      "start": 209.14,
+      "end": 209.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00011121608258690685
+    },
+    {
+      "text": "傅",
+      "start": 209.34,
+      "end": 209.56,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.004630794283002615
+    },
+    {
+      "text": "啊",
+      "start": 209.56,
+      "end": 209.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00018892886873800308
+    },
+    {
+      "text": "，",
+      "start": 209.76,
+      "end": 210.179,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015245705435518175
+    },
+    {
+      "text": "都",
+      "start": 210.34,
+      "end": 210.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00015245705435518175
+    },
+    {
+      "text": "有",
+      "start": 210.6,
+      "end": 210.859,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0045617325231432915
+    },
+    {
+      "text": "联",
+      "start": 210.86,
+      "end": 211.06,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00013636612857226282
+    },
+    {
+      "text": "系",
+      "start": 211.06,
+      "end": 211.18,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00013636612857226282
+    },
+    {
+      "text": "的",
+      "start": 211.18,
+      "end": 211.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0002076410164590925
+    },
+    {
+      "text": "。",
+      "start": 211.76,
+      "end": 211.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.6373953819274902
+    },
+    {
+      "text": "但",
+      "start": 211.78,
+      "end": 211.94,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.6373953819274902
+    },
+    {
+      "text": "是",
+      "start": 211.94,
+      "end": 212.08,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.777537883957848e-05
+    },
+    {
+      "text": "都",
+      "start": 212.08,
+      "end": 212.38,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0004587313160300255
+    },
+    {
+      "text": "，",
+      "start": 212.38,
+      "end": 214.0,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.578096330165863
+    },
+    {
+      "text": "现",
+      "start": 214.0,
+      "end": 214.2,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.578096330165863
+    },
+    {
+      "text": "在",
+      "start": 214.2,
+      "end": 214.4,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.578096330165863
+    },
+    {
+      "text": "说",
+      "start": 214.4,
+      "end": 214.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0004085659747943282
+    },
+    {
+      "text": "来",
+      "start": 214.54,
+      "end": 214.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.33521324396133423
+    },
+    {
+      "text": "，",
+      "start": 214.64,
+      "end": 214.7,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.10031787306070328
+    },
+    {
+      "text": "应",
+      "start": 214.7,
+      "end": 214.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.333651541965082e-05
+    },
+    {
+      "text": "该",
+      "start": 214.84,
+      "end": 215.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.333651541965082e-05
+    },
+    {
+      "text": "他",
+      "start": 215.54,
+      "end": 215.62,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0003895000845659524
+    },
+    {
+      "text": "们",
+      "start": 215.62,
+      "end": 215.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0003895000845659524
+    },
+    {
+      "text": "都",
+      "start": 215.84,
+      "end": 216.64,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00025722055579535663
+    },
+    {
+      "text": "就",
+      "start": 216.64,
+      "end": 216.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.13022661209106445
+    },
+    {
+      "text": "我",
+      "start": 216.84,
+      "end": 217.6,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.00371718080714345
+    },
+    {
+      "text": "看",
+      "start": 217.6,
+      "end": 217.799,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -9.881961887003854e-05
+    },
+    {
+      "text": "一",
+      "start": 217.8,
+      "end": 218.38,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001649330137297511
+    },
+    {
+      "text": "百",
+      "start": 218.38,
+      "end": 218.48,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.10817719995975494
+    },
+    {
+      "text": "多",
+      "start": 218.48,
+      "end": 218.76,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -1.4543427823809907e-05
+    },
+    {
+      "text": "岁",
+      "start": 218.76,
+      "end": 218.959,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -7.86750388215296e-05
+    },
+    {
+      "text": "啦",
+      "start": 218.96,
+      "end": 219.14,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.9742636680603027
+    },
+    {
+      "text": "，",
+      "start": 219.14,
+      "end": 219.98,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001977156847715378
+    },
+    {
+      "text": "所",
+      "start": 219.98,
+      "end": 220.3,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001977156847715378
+    },
+    {
+      "text": "以",
+      "start": 220.34,
+      "end": 220.54,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.001977156847715378
+    },
+    {
+      "text": "没",
+      "start": 220.54,
+      "end": 220.68,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01457296684384346
+    },
+    {
+      "text": "有",
+      "start": 220.68,
+      "end": 220.84,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.01457296684384346
+    },
+    {
+      "text": "没",
+      "start": 220.84,
+      "end": 220.96,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.37667402625083923
+    },
+    {
+      "text": "有",
+      "start": 220.96,
+      "end": 221.12,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.37667402625083923
+    },
+    {
+      "text": "联",
+      "start": 221.12,
+      "end": 221.26,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0006980843027122319
+    },
+    {
+      "text": "系",
+      "start": 221.26,
+      "end": 221.34,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0006980843027122319
+    },
+    {
+      "text": "现",
+      "start": 221.34,
+      "end": 221.62,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0031545422971248627
+    },
+    {
+      "text": "在",
+      "start": 221.62,
+      "end": 221.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -0.0031545422971248627
+    },
+    {
+      "text": "。",
+      "start": 221.74,
+      "end": 221.74,
+      "type": "word",
+      "speaker_id": "speaker_1",
+      "logprob": -2.145764938177308e-06
+    }
+  ],
+  "audio_duration_secs": 310.336
+}

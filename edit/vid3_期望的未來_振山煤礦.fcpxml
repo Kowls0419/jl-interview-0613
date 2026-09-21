@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.9">
+  <resources>
+    <format id="r1" name="FFVideoFormat1080p24" frameDuration="100/2400s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)" />
+    <asset id="a1" name="CAM" start="0s" duration="736400/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/proxy/4884_crop.mp4" />
+    </asset>
+    <asset id="a2" name="CARD_opening" start="0s" duration="24000/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/opening.mp4" />
+    </asset>
+    <asset id="a3" name="CARD_title" start="0s" duration="9600/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/title.mp4" />
+    </asset>
+    <asset id="a4" name="CARD_q1" start="0s" duration="6200/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/q1.mp4" />
+    </asset>
+    <asset id="a5" name="CARD_q2" start="0s" duration="6200/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/q2.mp4" />
+    </asset>
+    <asset id="a6" name="CARD_q3" start="0s" duration="6200/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/q3.mp4" />
+    </asset>
+    <asset id="a7" name="CARD_q4" start="0s" duration="6200/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/q4.mp4" />
+    </asset>
+    <asset id="a8" name="CARD_q5" start="0s" duration="6200/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/q5.mp4" />
+    </asset>
+    <asset id="a9" name="CARD_q6" start="0s" duration="6200/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/q6.mp4" />
+    </asset>
+    <asset id="a10" name="CARD_end" start="0s" duration="13200/2400s" hasVideo="1" format="r1" hasAudio="1" audioSources="1" audioChannels="2" audioRate="48000">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/cards_zhenshan/end.mp4" />
+    </asset>
+    <asset id="a11" name="kb_p6_6.4s" start="0s" duration="15400/2400s" hasVideo="1" format="r1">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/kb_zhenshan/kb_p6_6.4s.mov" />
+    </asset>
+    <asset id="a12" name="kb_p5_6.4s" start="0s" duration="15400/2400s" hasVideo="1" format="r1">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/kb_zhenshan/kb_p5_6.4s.mov" />
+    </asset>
+    <asset id="a13" name="kb_p3_9s" start="0s" duration="21600/2400s" hasVideo="1" format="r1">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/kb_zhenshan/kb_p3_9s.mov" />
+    </asset>
+    <asset id="a14" name="kb_p10_8s" start="0s" duration="19200/2400s" hasVideo="1" format="r1">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/kb_zhenshan/kb_p10_8s.mov" />
+    </asset>
+    <asset id="a15" name="kb_p14_4.3s" start="0s" duration="10300/2400s" hasVideo="1" format="r1">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/kb_zhenshan/kb_p14_4.3s.mov" />
+    </asset>
+    <asset id="a16" name="kb_p9_4.3s" start="0s" duration="10300/2400s" hasVideo="1" format="r1">
+      <media-rep kind="original-media" src="file:///PROJECT_ROOT/edit/kb_zhenshan/kb_p9_4.3s.mov" />
+    </asset>
+  </resources>
+  <library>
+    <event name="JL Vid3 期望的未來 振山煤礦">
+      <project name="JL Vid3 期望的未來 振山煤礦">
+        <sequence format="r1" duration="373800/2400s" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <asset-clip ref="a2" offset="0/2400s" name="CARD_opening" duration="24000/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a3" offset="24000/2400s" name="CARD_title" duration="9600/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a1" offset="33600/2400s" name="CAM" duration="30400/2400s" start="642200/2400s" format="r1" />
+            <asset-clip ref="a4" offset="64000/2400s" name="CARD_q1" duration="6200/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a1" offset="70200/2400s" name="CAM" duration="9800/2400s" start="54400/2400s" format="r1">
+              <asset-clip ref="a11" lane="1" offset="59400/2400s" name="kb_p6_6.4s" duration="15400/2400s" start="0s" format="r1" />
+            </asset-clip>
+            <asset-clip ref="a1" offset="80000/2400s" name="CAM" duration="6800/2400s" start="65000/2400s" format="r1" />
+            <asset-clip ref="a1" offset="86800/2400s" name="CAM" duration="3600/2400s" start="73900/2400s" format="r1">
+              <asset-clip ref="a12" lane="2" offset="75300/2400s" name="kb_p5_6.4s" duration="15400/2400s" start="0s" format="r1" />
+            </asset-clip>
+            <asset-clip ref="a1" offset="90400/2400s" name="CAM" duration="6000/2400s" start="88000/2400s" format="r1" />
+            <asset-clip ref="a1" offset="96400/2400s" name="CAM" duration="4800/2400s" start="97400/2400s" format="r1" />
+            <asset-clip ref="a5" offset="101200/2400s" name="CARD_q2" duration="6200/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a1" offset="107400/2400s" name="CAM" duration="8800/2400s" start="136700/2400s" format="r1">
+              <asset-clip ref="a13" lane="1" offset="142100/2400s" name="kb_p3_9s" duration="21600/2400s" start="0s" format="r1" />
+            </asset-clip>
+            <asset-clip ref="a1" offset="116200/2400s" name="CAM" duration="33000/2400s" start="153600/2400s" format="r1" />
+            <asset-clip ref="a6" offset="149200/2400s" name="CARD_q3" duration="6200/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a1" offset="155400/2400s" name="CAM" duration="30000/2400s" start="219800/2400s" format="r1">
+              <asset-clip ref="a14" lane="1" offset="241600/2400s" name="kb_p10_8s" duration="19200/2400s" start="0s" format="r1" />
+            </asset-clip>
+            <asset-clip ref="a1" offset="185400/2400s" name="CAM" duration="16000/2400s" start="253100/2400s" format="r1" />
+            <asset-clip ref="a7" offset="201400/2400s" name="CARD_q4" duration="6200/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a1" offset="207600/2400s" name="CAM" duration="48200/2400s" start="338300/2400s" format="r1" />
+            <asset-clip ref="a8" offset="255800/2400s" name="CARD_q5" duration="6200/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a1" offset="262000/2400s" name="CAM" duration="52500/2400s" start="526200/2400s" format="r1" />
+            <asset-clip ref="a1" offset="314500/2400s" name="CAM" duration="15000/2400s" start="584600/2400s" format="r1" />
+            <asset-clip ref="a9" offset="329500/2400s" name="CARD_q6" duration="6200/2400s" start="0/2400s" format="r1" />
+            <asset-clip ref="a1" offset="335700/2400s" name="CAM" duration="24900/2400s" start="690000/2400s" format="r1">
+              <asset-clip ref="a15" lane="1" offset="692700/2400s" name="kb_p14_4.3s" duration="10300/2400s" start="0s" format="r1" />
+              <asset-clip ref="a16" lane="2" offset="700700/2400s" name="kb_p9_4.3s" duration="10300/2400s" start="0s" format="r1" />
+            </asset-clip>
+            <asset-clip ref="a10" offset="360600/2400s" name="CARD_end" duration="13200/2400s" start="0/2400s" format="r1" />
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>
